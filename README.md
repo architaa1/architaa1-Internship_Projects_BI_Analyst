@@ -1,7 +1,6 @@
 # architaa1-Internship_Projects_BI_Analyst
 
 📊 Sales, Finance & Inventory Analytics Dashboard
-📌 Project Overview
 
 This project focuses on building end-to-end business analytics dashboards using Power BI to analyze sales, finance, purchase, and inventory data from ERP-style transactional systems.
 The dashboards provide actionable insights for decision-making, performance tracking, and forecasting across multiple business dimensions.
