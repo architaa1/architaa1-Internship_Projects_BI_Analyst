@@ -2,8 +2,8 @@
 
 📊 Sales, Finance & Inventory Analytics Dashboard
 
-This project focuses on building end-to-end business analytics dashboards using Power BI to analyze sales, finance, purchase, and inventory data from ERP-style transactional systems.
-The dashboards provide actionable insights for decision-making, performance tracking, and forecasting across multiple business dimensions.
+This project focuses on building end-to-end business analytics dashboards using Power BI to analyze sales, finance, purchase, inventory and machine maintenance data from ERP-style transactional systems.
+The dashboards provide actionable insights for decision-making, performance tracking, and forecasting across multiple business dimensions 
 
 🎯 Objectives
 
@@ -16,6 +16,8 @@ Track inventory movement, stock levels, and reorder requirements
 Perform predictive analysis to forecast future sales and purchases
 
 Enable stakeholders to explore data through interactive dashboards
+
+Analyzing machine breakdowns, downtime, maintenance efficiency, and costs.
 
 🗂️ Datasets Used
 
@@ -30,6 +32,8 @@ Inventory stock and warehouse data
 Financial ledgers (Revenue, Expenses, Assets, Liabilities)
 
 AP/AR, TDS, and voucher-level accounting data
+
+Breakdown Log, Machine, Assembly, Fault, Symptom, Reason, Action, Date Data
 
 Data was cleaned, standardized, and modeled before visualization.
 
@@ -103,6 +107,8 @@ Multi-year and multi-location analysis
 Business-ready KPIs and metrics
 
 Clean and user-friendly visual design
+
+Business-friendly visuals and glossary for clarity
 
 💡 Learning Outcomes
 
